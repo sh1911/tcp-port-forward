@@ -3,6 +3,7 @@
  * It was later licensed:  https://github.com/antialize/utils/issues/1
  */
 #include <stdio.h>
+#include<unistd.h>
 #include <sys/types.h> 
 #include <sys/socket.h>
 #include <netinet/in.h>
